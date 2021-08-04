@@ -24,7 +24,6 @@ ul {
     margin: 0;
     padding: 0;
     overflow: hidden;
-    background-color: rgb(25, 39, 48);
 }
 
 li {
@@ -54,7 +53,7 @@ body {
     text-align: center;
 }
 
-.contact-title {
+section {
     margin-top: 100px;
     color: #fff;
     text-transform: uppercase;
