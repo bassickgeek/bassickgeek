@@ -2,7 +2,7 @@ html {
 
     font-family: 'Courier New', Courier, monospace;
     height: 100%;
-    background-image: url(bassickgeek/img/lofreq.jpg);
+    background-image: url(../img/lofreq.jpg);
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
@@ -149,7 +149,7 @@ article {
 }
 
 aside {
-    background-image: url(/img/rejack2.jpg);
+    background-image: url(../img/rejack2.jpg);
     float: right;
     margin-left: 25px;
     margin-top: 20px;
