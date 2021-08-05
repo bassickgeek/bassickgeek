@@ -149,7 +149,7 @@ article {
 }
 
 aside {
-    background-image: url(/img/rejack2.jpg);
+    background-image: url(../img/rejack2.jpg);
     float: right;
     margin-left: 25px;
     margin-top: 20px;
@@ -163,7 +163,7 @@ aside {
     text-align: center;
 }
 
-.social {
+footer {
     clear: both;
     background-color: transparent;
     color: white;
